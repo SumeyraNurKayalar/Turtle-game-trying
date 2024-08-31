@@ -30,7 +30,7 @@ timer_turtle.write(f"Time left: {time_left}", align="center", font=("Arial", 18,
 
 drawing_board.setup(width=600, height=600)
 
-# Generate random coordinates
+
 random_x = random.randint(-300, 300)
 random_y = random.randint(-300, 300)
 
